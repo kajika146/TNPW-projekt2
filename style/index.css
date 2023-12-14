@@ -98,3 +98,7 @@ a {
     justify-content: space-around;
 }
 
+#navli {
+    display:flex;    
+}
+
